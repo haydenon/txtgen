@@ -8,7 +8,9 @@
     "url": "https://github.com/ndaidong/txtgen"
   },
   "author": "@ndaidong",
-  "main": "./src/main.js",
+  "main": "dist/cjs/txtgen.js",
+  "module": "dist/txtgen.esm.js",
+  "typings": "types/index.d.ts"
   "type": "module",
   "engines": {
     "node": ">= 14"
