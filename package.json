@@ -10,7 +10,7 @@
   "author": "@ndaidong",
   "main": "dist/cjs/txtgen.js",
   "module": "dist/txtgen.esm.js",
-  "typings": "types/index.d.ts"
+  "typings": "types/index.d.ts",
   "type": "module",
   "engines": {
     "node": ">= 14"
